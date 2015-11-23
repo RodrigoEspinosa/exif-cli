@@ -1,6 +1,6 @@
 {
   "name": "exif-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terminal interface for node-exif. A node.js library to extract Exif metadata from images.",
   "main": "index.js",
   "scripts": {
